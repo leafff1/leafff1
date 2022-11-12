@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Huang, a master student in the University of Copenhagen.:yellow_heart:
+- 🌱 I’m currently learning Computer Science.
+- :heartbeat: I’m currently interested in the data science and software engineering.
+- 🔭 I’m good at programming with C++ and python.
 
 <!--
 **leafff1/leafff1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
