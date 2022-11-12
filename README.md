@@ -1,4 +1,4 @@
-### Hi I'm Huang, a master student in the University of Copenhagen.:yellow_heart:
+### :yellow_heart:Hi I'm Huang, a master student in the University of Copenhagen.
 - 🌱 I’m currently learning Computer Science.
 - :heartbeat: I’m currently interested in the data science and software engineering.
 - 🔭 I’m good at programming with C++ and python.
